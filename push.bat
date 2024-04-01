@@ -1,5 +1,5 @@
 @echo off
 git add *
-git commit -m "¸üĞÂÍ¼Æ¬"
+git commit -m "..."
 git push origin master
 pause
